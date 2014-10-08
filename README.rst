@@ -26,7 +26,7 @@ Usage
 Follow the white rabbit::
 
     $ touch project/.env
-    $ echo "echo 'woah'" > project/.env
+    $ echo "echo 'woah'" > project/.autoenv
     $ cd project
     woah
 
