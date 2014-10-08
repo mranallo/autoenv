@@ -7,7 +7,7 @@ Magic per-project shell environments. Very pretentious.
 What is it?
 -----------
 
-If a directory contains a ``.env`` file, it will automatically be executed
+If a directory contains a ``.autoenv`` file, it will automatically be executed
 when you ``cd`` into it.
 
 This is great for...
